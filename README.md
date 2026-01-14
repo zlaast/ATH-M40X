@@ -5,8 +5,8 @@
 - The pivot should have support blockers for the holes that intersect. Otherwise you’ll have bits of plastic that block the wire from passing through and you won’t be able to get the plastic out.
 - The Band Assembly should have the groove side facing up when printing, otherwise the pivot will cause friction when you assemble the parts together.
 
-# I don't like that jazz
+# I don't like that 🎷 jazz 🎷
 Recommendations got you down? Don’t know how to do them? Download the .3mf file containing the recommendations which you can import it into Prusa Slicer. It should also work with Cura, but I have not tested it
 
 # More info
-See my [blog post zlaast.github.io](https://zlaast.github.io/posts/3d-printing/ath-m40x/) for more details on this project.
+See my [blog post](https://zlaast.github.io/posts/3d-printing/ath-m40x/) for more details on this project.
